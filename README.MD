@@ -1,13 +1,30 @@
 # Show money on windows taskbar
 
+![taskbar](/ReadmeAssets/taskbar.png)
+![plugin](/ReadmeAssets/plugin.png)
+
 ## download
 
 [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
-## ²å¼şÏµÍ³
+## æ’ä»¶ç³»ç»Ÿ
 
-ÏÂÔØ²å¼ş
+[ä¸‹è½½æ’ä»¶](https://github.com/jinmu333/PluginMoneyProgress/releases)
 
-´Ó1.82°æ±¾¿ªÊ¼Ôö¼ÓÁË²å¼şÏµÍ³£¬
-²å¼şdll±ØĞë·ÅÔÚ¡°TrafficMonitor.exe¡±Í¬¼¶Ä¿Â¼µÄ¡°plugins¡±Ä¿Â¼ÏÂ¡£
-³ÌĞòÆô¶¯ºó£¬²å¼ş»á×Ô¶¯¼ÓÔØ¡£Äã¿ÉÒÔÔÚÓÒ¼ü²Ëµ¥¡°¸ü¶à¹¦ÄÜ¡±¡ª¡ª¡°²å¼ş¹ÜÀí¡±ÖĞ²é¿´²¢¹ÜÀíÒÑ¼ÓÔØµÄ²å¼ş¡£
+æ”¾å…¥ `plugins` æ–‡ä»¶å¤¹ä¸­
+
+![dir](/ReadmeAssets/dir.png)
+
+PluginMoneyProgress.dll.ini
+
+```ini
+[config]
+start_time=09:00
+end_time=18:00
+day_money=500
+```
+
+## TODO
+
+- å‘¨æœ«
+- é…ç½®å¯è§†åŒ–
